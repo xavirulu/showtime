@@ -1,0 +1,68 @@
+.App {
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  color: #272D2D;
+  background-color: #272D2D;
+}
+html, body, #app, #app>div {
+  height: 100%;
+  background-color: #272D2D;
+}
+
+
+.App-header {
+  background-color: #23CE6B;
+  height: 40px;
+  padding: 20px;
+  color: white;
+  display:flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+
+.App-logo {
+  height: 40px;
+  padding: 20px;
+  display:flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+
+.App-title {
+  font-size: 2.5em;
+  color: white;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.app-icon {
+  font-size: 40px;
+  margin: 5px;
+}
+
+.main {
+  background-color: #272D2D;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+h1, h2, h6 {
+  -webkit-margin-before: 0em;
+  -webkit-margin-after: 0em;
+  -webkit-margin-start: 0px;
+  -webkit-margin-end: 0px;
+  font-weight: bolder;
+}
+
+a {
+  color: white;
+  cursor: pointer;
+  text-decoration: none;
+}

@@ -1,0 +1,73 @@
+{
+    "shows": [
+        {   
+            "id": 1,
+           "name":"Sharp Objects",
+           "description": "A reporter confronts the psychological demons from her past when she returns to her hometown to cover a violent murder.",
+           "image": "https://cdn-3.expansion.mx/dims4/default/58d52ce/2147483647/strip/true/crop/1200x675+0+0/resize/800x450!/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Ff2%2F93%2F4fcd8d1a4050a02ac630f9a653a8%2Fcq5dam.web.1200.675.jpeg",
+           "genres": [
+                {   
+                    "id": "1",
+                    "genre": "Thriller",
+                    "color": "#d842f4"
+                },
+                {   
+                    "id": "2",
+                    "genre": "Horror",
+                    "color": "#de0000"
+                },
+                {   
+                    "id": "3",
+                    "genre": "Drama",
+                    "color": "#fcff19"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name":"Tom Clancy's Jack Ryan",
+            "description": "Up-and-coming CIA analyst, Jack Ryan, is thrust into a dangerous field assignment as he uncovers a pattern in terrorist communication that launches him into the center of a dangerous gambit.",
+            "image": "https://cdn-images-1.medium.com/max/1600/1*ZDg1dN3gZAen1cm-rmO-5w.jpeg",
+            "genres": [
+                {   
+                    "id": "4",
+                    "genre": "Thriller",
+                    "color": "#d842f4"
+                },
+                {   
+                    "id": "5",
+                    "genre": "Action",
+                    "color": "#42f462"
+                },
+                {   
+                    "id": "6",
+                    "genre": "Drama",
+                    "color": "#fcff19"
+                }
+            ]
+         },
+         {
+            "id": 3,
+            "name":"Castle Rock",
+            "description": "Based on the stories of Stephen King, the series will intertwine characters and themes from the fictional town of Castle Rock.",
+            "image": "http://corrientealterna.net/wp-content/uploads/2018/07/Castle-Rock-1000-12-960x472.jpg",
+            "genres": [
+                {   
+                    "id": "7",
+                    "genre": "Drama",
+                    "color": "#fcff19"
+                },
+                {   
+                    "id": "8",
+                    "genre": "Fantasy",
+                    "color": "#42f462"
+                },
+                {   
+                    "id": "9",
+                    "genre": "Horror",
+                    "color": "#de0000"
+                }
+            ]
+         }
+    ]
+}

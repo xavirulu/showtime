@@ -1,0 +1,18 @@
+.card-tags {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.card-box .card-tags {
+    float: left;
+    position: absolute;
+}
+
+.tag {
+    width: fit-content;
+    text-transform: uppercase;
+    background-color: #23CE6B;
+    opacity: 0.8;
+    z-index: 1000;
+}
